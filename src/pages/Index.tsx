@@ -21,7 +21,7 @@ export default function Index() {
             <div className="relative group">
               <div className="absolute inset-0 bg-accent/20 blur-3xl animate-glow" />
               <img
-                src="https://cdn.poehali.dev/projects/ba5270d4-ee9e-4e81-a3ef-0227425f3e39/files/51d4435a-066d-4b54-a19e-8d8ce3c4e173.jpg"
+                src="https://cdn.poehali.dev/projects/ba5270d4-ee9e-4e81-a3ef-0227425f3e39/files/5898eb5f-b1bf-4c5f-8fba-bdefd50f2469.jpg"
                 alt="Tarot на ладони"
                 className="relative w-full max-w-2xl rounded-lg shadow-2xl group-hover:scale-[1.02] transition-transform duration-500"
               />
